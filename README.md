@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaiasamadhi
 - 👀 I’m interested in Web development with JavaScript and TypeScript
-- 🌱 I’m currently learning Data Structures and Algorithms and also Design Patterns
+- 🌱 I’m currently learning new Algorithms and also Design Patterns
 - 💞️ I’m looking to collaborate on ... Maybe you have a proposal for me?
 - 📫 How to reach me ... please write me an email :-) 
 
