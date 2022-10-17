@@ -1,4 +1,4 @@
-- 👋 Hi, I’m miguelangel
+- 👋 Hi, I’m Miguelángel
 - 👀 I’m interested in Web development with JavaScript and TypeScript
 - 🌱 I’m currently learning new things 
 - 💞️ I’m looking to collaborate on ... Maybe you have a proposal for me?
