@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Miguelángel
-- 👀 I’m interested in Web development with JavaScript and TypeScript
-- 🌱 I’m currently learning new things 
-- 💜 I’m looking to collaborate on ... Maybe you have a proposal for me?
-- 📫 How to reach me ... please write me an email :-) 
-
-<!---
-miguelangel/miguelangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 🙋‍♂️, I’m Miguelángel 🌊<br>
+I enjoy web development with JavaScript 🌠<br>
+Everyday I learn new things 🌠 <br>🌞<br>
+🌳🌴🌲🌳🌴🌲🌳🌴🌲🌳🌴🌎🌲🌳🌴🌲🌳🌴🌲🌳🌴🌲<br>
+🧑🏽‍💻 || HTML5 || CSS3 || JavaScript || React || Node.js || Express || SQL || NoSQL || RESTful API || GraphQL || TypeScript ||<br> Docker || Linux || Figma || Git || Scrum ||
+<br>
+📚
+Jest
+Selenium
+Redux
+MobX
+Strapi
+MongoDB
+Tsparticles
+MUI
+Styled Components
+Bootstrap
+Gastby
+Invision
+Python
+GitHub
+GitLab
+<br>
+🌳🌴🌲🌳🌴🌲🌳🌴🌲🌳🌴🌎🌲🌳🌴🌲🌳🌴🌲🌳🌴🌲<br>
+🕊️<br>
+Would you like to get in touch? 🤗<br>
+Please, feel free to write me an email 🙏🏼
+<br><br>
+Made with 💜
