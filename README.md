@@ -1,4 +1,4 @@
-Hi 😀, <br> <br> i am Miguelángel 🙋🏽‍♂
+Hi 😀, <br> <br> I am Miguelángel 🙋🏽‍♂
 <br><br>
 I enjoy creating practical software tools 😃<br><br>
 ☀️ <b>Everyday I learn new things</b> ☀️ <br><br>
